@@ -2,4 +2,4 @@
 
 Backend de um pequeno sistema para delivery.
 
-Utilizando Spring Boot e Java como tecnologias para seu desenvolvimento.
+Utilizando Spring Boot, Java e PostgresSQL como tecnologias para seu desenvolvimento.
